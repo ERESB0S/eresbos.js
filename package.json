@@ -1,0 +1,23 @@
+{
+    "name": "eresbos.js",
+    "version": "0.0.7",
+    "description": "Eresbos | Kolay Komutları Barındıran Discord.Js Modülüdür.",
+    "scripts": {
+        "start": "node eresbos.js"
+    },
+    "main": "eresbos.js",
+    "dependencies": {
+        "discord.js": "^12.5.1"
+    },
+    "engines": {
+        "node": "15.x"
+    },
+    "author": "Eresbos",
+    "license": "MIT",
+    "keywords": [
+        "eresbos",
+        "discord js",
+        "modul",
+        "eresbos.js"
+    ]
+}
